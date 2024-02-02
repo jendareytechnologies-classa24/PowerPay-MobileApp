@@ -8,9 +8,9 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jendareytech</groupId>
-	<artifactId>devopsengineersinfo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<groupId>com.jendareytechnologies</groupId>
+	<artifactId>devopsengineersinformation</artifactId>
+	<version>0.0.6-SNAPSHOT</version>
 	<name>devopsengineersinfo</name>
 	<description>Demo project for Spring Boot for devopsengineersinfo</description>
 	<properties>
